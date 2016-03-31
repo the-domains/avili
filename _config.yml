@@ -1,6 +1,6 @@
 name: Avili
 favicon: null
-layout_spectrum: 0.5137306025717407
+layout_spectrum: 0.2485
 typography_spectrum: 0.49759
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#f4f5fa'
+    - '#a8b3c5'
+    - '#181619'
+    - '#8e95a5'
+    - '#4d4948'
   brandStrength: 0.4352171996142715
   lightness: 0.014854633715003729
   saturation: 0.8075789087451994
-  rhythmicContrast: 0.5166245682630688
+  rhythmicContrast: 0.25
 purpose: []
