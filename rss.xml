@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Avili]]></title>
         <description><![CDATA[Avili]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/avili/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 11:12:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Mar 2016 11:33:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/avili/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Avili Consulting]]></title>
             <description><![CDATA[<article><h1>Avili Consulting</h1><p>Founded in 2009, Avili is a family business that has helped numerous companies grow in Finland and the Nordics. Focusing mainly on E-commerce, Financial Services and Payment Solutions.</p></article>]]></description>
-            <link>undefinedfounded-in-2009-avili-is-a-family-business-that-has-helped/index.html</link>
+            <link>https://thegrid.ai/avili/founded-in-2009-avili-is-a-family-business-that-has-helped/index.html</link>
             <guid isPermaLink="false">254fe773-8b7e-42be-b63b-9b0716ca9d99</guid>
-            <pubDate>Thu, 31 Mar 2016 11:11:56 GMT</pubDate>
+            <pubDate>Thu, 31 Mar 2016 11:32:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
